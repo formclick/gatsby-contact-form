@@ -1,0 +1,18 @@
+{
+  "name": "gatsby-contact-form",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Gatsby contact form example using the Formclick form API. No Gatsby Functions or backend required.",
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "gatsby": "5.16.1",
+    "react": "19.3.1",
+    "react-dom": "19.3.1"
+  }
+}
